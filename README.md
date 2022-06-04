@@ -1,10 +1,11 @@
 # ChatterApp
 
    In this application:-
-1. We have easy way to login via google or also you can login by register with username, mail and password.
-2. Used Recycler view and relative layout and used approx 5 to 6 layouts.
+1. It allows you to signin via your google account or also you can login via register with username, mail and password.
+2. Also you can use multiple IDs on a single phone using just one app.
 3. It has also a group chat option in menu bar where you can easily chat with friends in group without making any group.
-4. Created by Using Firebase database.
+4. Created by Using Real-time Firebase database.
+5. It has almost 6 to 7 layouts.
 
  ## Screenshots of App
  
