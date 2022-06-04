@@ -9,8 +9,10 @@
 
  ## Screenshots of App
  
- <img src="https://user-images.githubusercontent.com/91366721/171637676-92cc293d-1e30-4f11-b5f0-f2389b270bcc.jpeg" width="250" height="400" />  <img src="https://user-images.githubusercontent.com/91366721/171659338-cf9e44ab-b7ac-46a5-9621-5cb5f9fb5531.jpeg" width="250" height="400" />  <img src="https://user-images.githubusercontent.com/91366721/171659834-f3522767-8d7a-4ddb-97fc-8aa3249130fa.jpeg" width="250" height="400" />  <img src="https://user-images.githubusercontent.com/91366721/171660288-eac01fe9-5548-4327-b7fc-4deec64d9fdd.jpeg" width="250" height="400" />   <img src="https://user-images.githubusercontent.com/91366721/171661003-499f3390-7b5b-4939-b090-3bf3f015468e.png" width="250" height="400" /> 
+ <img src="https://user-images.githubusercontent.com/91366721/171637676-92cc293d-1e30-4f11-b5f0-f2389b270bcc.jpeg" width="250" height="400" />    <img src="https://user-images.githubusercontent.com/91366721/172019433-317bf86d-baef-41b4-b31e-fd4251589414.jpeg" width="250" height="400" /> 
+   <img src="https://user-images.githubusercontent.com/91366721/171659338-cf9e44ab-b7ac-46a5-9621-5cb5f9fb5531.jpeg" width="250" height="400" />    <img src="https://user-images.githubusercontent.com/91366721/171659834-f3522767-8d7a-4ddb-97fc-8aa3249130fa.jpeg" width="250" height="400" />    <img src="https://user-images.githubusercontent.com/91366721/171660288-eac01fe9-5548-4327-b7fc-4deec64d9fdd.jpeg" width="250" height="400" />      <img src="https://user-images.githubusercontent.com/91366721/171661003-499f3390-7b5b-4939-b090-3bf3f015468e.png" width="250" height="400" /> 
  
+
  
  ## Setup development environment
  
